@@ -1,5 +1,4 @@
 # cpp-projects
-C++ course / ITMO University
 
 1. Sudoku: solver and field generator
 2. -
